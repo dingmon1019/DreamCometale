@@ -36,18 +36,18 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\player.cs" />
-     <Compile Include="Assets\ObstacleCoursePack\Scripts\FPSDisplay.cs" />
-     <Compile Include="Assets\ObstacleCoursePack\Scripts\MovableObs.cs" />
-     <Compile Include="Assets\ObstacleCoursePack\Scripts\FallPlat.cs" />
-     <Compile Include="Assets\ObstacleCoursePack\Controller\CameraManager.cs" />
-     <Compile Include="Assets\ObstacleCoursePack\Scripts\Rotator.cs" />
-     <Compile Include="Assets\ObstacleCoursePack\Scripts\Bounce.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Controller\CharacterControls.cs" />
-     <Compile Include="Assets\ObstacleCoursePack\Scripts\Pendulum.cs" />
-     <Compile Include="Assets\ObstacleCoursePack\Scripts\SavePos.cs" />
-     <Compile Include="Assets\ObstacleCoursePack\Scripts\KillZone.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\WallMovable.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\MovableObs.cs" />
+     <Compile Include="Assets\Scripts\player.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Controller\CameraManager.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\FallPlat.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\SavePos.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\Pendulum.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\Rotator.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\KillZone.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\Bounce.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\FPSDisplay.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
