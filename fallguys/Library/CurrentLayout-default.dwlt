@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -493,9 +493,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 8.3572235, y: 1.5438666, z: -8.540781}
+    m_Target: {x: 8.599291, y: 0.76267385, z: -7.8632536}
     speed: 2
-    m_Value: {x: 8.3572235, y: 1.5438666, z: -8.540781}
+    m_Value: {x: 8.599291, y: 0.76267385, z: -7.8632536}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -542,13 +542,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.16362332, y: 0.71708137, z: -0.17959943, w: 0.6532962}
+    m_Target: {x: 0.042504244, y: 0.88748, z: -0.08358763, w: 0.45124003}
     speed: 2
-    m_Value: {x: 0.16308133, y: 0.7190272, z: -0.18008678, w: 0.6511322}
+    m_Value: {x: 0.041826706, y: 0.88759035, z: -0.082255, w: 0.45129612}
   m_Size:
-    m_Target: 2.1339743
+    m_Target: 8.640995
     speed: 2
-    m_Value: 2.1339743
+    m_Value: 8.268895
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -624,9 +624,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 183f0000
-    m_LastClickedID: 16152
-    m_ExpandedIDs: 00000000e23e000000ca9a3b
+    m_SelectedIDs: 2e3f0000
+    m_LastClickedID: 16174
+    m_ExpandedIDs: 000000001e3f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -654,7 +654,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e23e0000
+    m_ExpandedIDs: 000000001e3f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -765,7 +765,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 90f7ffff94f7ffff62fbffff
+      m_ExpandedIDs: c6f7ffff26fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
