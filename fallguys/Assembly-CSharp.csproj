@@ -41,6 +41,7 @@
      <Compile Include="Assets\ObstacleCoursePack\Scripts\MovableObs.cs" />
      <Compile Include="Assets\Scripts\player.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Controller\CameraManager.cs" />
+     <Compile Include="Assets\Scripts\JumpBase.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\FallPlat.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\SavePos.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\Pendulum.cs" />
@@ -48,7 +49,8 @@
      <Compile Include="Assets\ObstacleCoursePack\Scripts\KillZone.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\Bounce.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\FPSDisplay.cs" />
-     <Compile Include="Assets\Scripts\JumpBase.cs" />
+     <Compile Include="Assets\Scripts\OpenPendulmBack.cs" />
+     <Compile Include="Assets\Scripts\OpenPendulmFront.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
