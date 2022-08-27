@@ -36,11 +36,13 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\OpenPendulmFront.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Controller\CharacterControls.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\WallMovable.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\MovableObs.cs" />
      <Compile Include="Assets\Scripts\player.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Controller\CameraManager.cs" />
+     <Compile Include="Assets\Scripts\OpenPendulmBack.cs" />
      <Compile Include="Assets\Scripts\JumpBase.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\FallPlat.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\SavePos.cs" />
@@ -49,8 +51,7 @@
      <Compile Include="Assets\ObstacleCoursePack\Scripts\KillZone.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\Bounce.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\FPSDisplay.cs" />
-     <Compile Include="Assets\Scripts\OpenPendulmBack.cs" />
-     <Compile Include="Assets\Scripts\OpenPendulmFront.cs" />
+     <Compile Include="Assets\ObstacleCoursePack\Scripts\CameraChange.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -656,6 +657,12 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
         <HintPath>C:\GitHub\DreamCometale\fallguys\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+        <HintPath>C:\GitHub\DreamCometale\fallguys\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Cinemachine">
+        <HintPath>C:\GitHub\DreamCometale\fallguys\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
