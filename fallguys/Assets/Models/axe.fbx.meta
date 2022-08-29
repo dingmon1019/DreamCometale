@@ -3,7 +3,12 @@ guid: 5f8aca8368303b849bbecbebfe129d5e
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: axe_stick_texture
+    second: {fileID: 2800000, guid: 355568eaefa7fb849abca46f4b7d05ff, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
