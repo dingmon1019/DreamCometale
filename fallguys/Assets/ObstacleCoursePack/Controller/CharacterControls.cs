@@ -163,6 +163,7 @@ public class CharacterControls : MonoBehaviour {
 	public void LoadCheckPoint()
 	{
 		transform.position = checkPoint;
+		transform.rotation = Quaternion.Euler(0,0,0);
 	}
 
 	private IEnumerator Decrease(float value, float duration)
