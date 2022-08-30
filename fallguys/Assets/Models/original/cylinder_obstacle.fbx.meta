@@ -3,7 +3,12 @@ guid: 13db35251ff04ee42bab376de3115c9b
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cylinder_obstacle_texture
+    second: {fileID: 2800000, guid: 08d3193b9a717494cb6bcd0d18eb859a, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

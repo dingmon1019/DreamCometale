@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637972020950199379
-    m_Hash: 1875556615
+      ticks: 637974460296392644
+    m_Hash: 2118765876
   m_LockFileStatus:
     m_FilePath: C:/GitHub/DreamCometale/fallguys/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637972020950269390
-    m_Hash: 783059395
+      ticks: 637974460296452658
+    m_Hash: 2080507996
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:

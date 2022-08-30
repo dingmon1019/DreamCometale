@@ -48,10 +48,10 @@
      <Compile Include="Assets\ObstacleCoursePack\Scripts\SavePos.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\Pendulum.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\Rotator.cs" />
+     <Compile Include="Assets\Scripts\TImelineController.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\KillZone.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\Bounce.cs" />
      <Compile Include="Assets\ObstacleCoursePack\Scripts\FPSDisplay.cs" />
-     <Compile Include="Assets\Scripts\TImeLineController.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
